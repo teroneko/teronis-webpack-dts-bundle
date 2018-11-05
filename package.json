@@ -1,6 +1,6 @@
 {
   "name": "@teronis/webpack-dts-bundle",
-  "version": "1.0.2",
+  "version": "1.0.2-teronified",
   "description": "Webpack plugin for creating declaration bundle based on dts-bundle library",
   "main": "index.js",
   "repository": {
